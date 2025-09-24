@@ -6,6 +6,7 @@ def main():
 
     print('2 подгруппа')
     print('новый print')
+    print('Unknown writes here')
 
 if __name__ == '__main__':
     main()
