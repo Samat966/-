@@ -5,6 +5,7 @@ def main():
     print('what i`ve done')
 
     print('2 подгруппа')
+    print('новый print')
 
 if __name__ == '__main__':
     main()
