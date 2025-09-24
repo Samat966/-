@@ -4,5 +4,7 @@ def main():
     print('24.09.2025')
     print('what i`ve done')
 
+    print('2 подгруппа')
+
 if __name__ == '__main__':
     main()
